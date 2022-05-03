@@ -1,0 +1,19 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "chromedriver": "^100.0.0",
+    "geckodriver": "^3.0.1",
+    "mocha": "^10.0.0",
+    "selenium-webdriver": "^4.1.2"
+  }
+}
